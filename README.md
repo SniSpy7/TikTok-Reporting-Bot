@@ -25,7 +25,7 @@
 I am not accountable for any of your actions.
 ```
 
--------
+----
 
 What Is a TikTok Mass Report Bot?
 A TikTok mass report bot is an automated tool designed to streamline the process of reporting accounts, videos, and content that violate TikTok's community guidelines and terms of service. Instead of manually submitting individual reports, a mass report tiktok bot coordinates multiple reports simultaneously, significantly increasing the likelihood of TikTok's trust and safety team taking action.
